@@ -1,0 +1,9 @@
+extension using interface zjs_i_agencytp
+implementation in class zzjs_bp_x_cntry_r_agencytp unique;
+
+extend behavior for Agency
+{
+
+  factory action ( authorization : global ) zzcreateFromTemplate [1];
+
+}

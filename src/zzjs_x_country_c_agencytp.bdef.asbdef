@@ -1,0 +1,8 @@
+extension for projection;
+
+extend behavior for Agency
+{
+
+  use action zzcreateFromTemplate;
+
+}
